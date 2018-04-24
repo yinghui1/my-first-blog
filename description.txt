@@ -1,6 +1,0 @@
-password for super user:
-
-name: susan
-email: yysyh2010@gmail.com
-password:9H@Lm![J8Gau==U]
-
